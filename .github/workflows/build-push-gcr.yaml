@@ -8,9 +8,9 @@ on:
 
 env:
   # Change this section according to your needs
-  IMAGE_NAME:   migration-using-sqlgty
-  SERVICE:      migration-using-sqlgty
-  DOMAIN_NAME:  migration-using-sqlgty.demo.community.intersystems.com
+  IMAGE_NAME:   appadmin-sqlgty
+  SERVICE:      appadmin-sqlgty
+  DOMAIN_NAME:  appadmin-sqlgty.demo.community.intersystems.com
 # Leave this section untouched
   PROJECT_ID:   iris-community-demos
   CLUSTER_NAME: demo

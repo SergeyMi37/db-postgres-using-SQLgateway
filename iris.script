@@ -13,8 +13,8 @@
     set gty.isJDBC=1
     set sc=gty.%Save()
     ZWRITE gty,sc
-    ;
-    zn "USER"
-   zpm "install webterminal"
+    zpm "install zapm"
+    zn "user"
+    zpm "install webterminal"
     halt
 
