@@ -2,6 +2,8 @@
 An example repository using PostgreSQL SQLgateway to demonstrate exporting and importing instances of the %Library.SQLConnection class with copying jdbc drivers.
 This is especially useful when you want to copy items to another iris server through the package manager's private registry while keeping your private settings.
 
+[![Demo](https://img.shields.io/badge/Demo%20on-Cloud%20Run%20Deploy-F4A460)](https://apptools-gateway.demo.community.intersystems.com/csp/sys/mgr/UtilSqlGateways.csp)
+
 ## Credits ##
 0. OEX package [migration-pg-iris-dataset](https://openexchange.intersystems.com/package/migration-pg-iris-dataset) 
 provided by [YURI MARX PEREIRA GOMES](https://openexchange.intersystems.com/user/YURI%20MARX%20PEREIRA%20GOMES/QKGV1uPuZml09uNsC8bNKcRQj8)   
